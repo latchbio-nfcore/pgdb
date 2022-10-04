@@ -4,7 +4,8 @@
     nf-core/pgdb
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     Github : https://github.com/nf-core/pgdb
-Website: https://nf-co.re/pgdb
+
+    Website: https://nf-co.re/pgdb
     Slack  : https://nfcore.slack.com/channels/pgdb
 ----------------------------------------------------------------------------------------
 */
